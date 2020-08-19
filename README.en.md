@@ -49,7 +49,3 @@ Now that you already have the template cloned, and ready to continue, you must o
 ## :memo: Licence
 
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
-
----
-
-Made with 💜 by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
